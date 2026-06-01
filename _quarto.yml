@@ -3,21 +3,23 @@ project:
 
 website:
   title: "Dad Book Club"
+  site-url: https://dadbook.club
+  description: "A dad writes about books."
   navbar:
     right:
       - about.qmd
-      - icon: github
-        href: https://github.com/
+      - icon: rss
+        href: index.xml
+  margin-header: subscribe.html
   page-footer:
     center:
       - text: "Subscribe to Dad Book Club"
         href: "https://buttondown.com/jknapp"
-  site-url: https://dadbook.club
 
 format:
   html:
     theme:
-      - cosmo
+      - minty
     css: styles.css
 
 editor: visual
