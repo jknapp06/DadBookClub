@@ -9,6 +9,8 @@ listing:
   filter-ui: false
 page-layout: full
 title-block-banner: true
+feed:
+    path: feed.xml
 ---
 
 ## Get Dad Book Club posts in your email

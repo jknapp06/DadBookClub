@@ -11,16 +11,13 @@ website:
   page-footer:
     center:
       - text: "Subscribe to Dad Book Club"
-        href: "https://buttondown.com/jknapp"  # Replace with your Buttondown URL
-  feed:
-    path: feed.xml
+        href: "https://buttondown.com/jknapp"
+  site-url: https://dadbook.club
 
 format:
   html:
     theme:
       - cosmo
-      - brand
     css: styles.css
 
 editor: visual
-
