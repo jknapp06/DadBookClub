@@ -11,3 +11,19 @@ page-layout: full
 title-block-banner: true
 ---
 
+## Get Dad Book Club posts in your email
+
+<form
+  action="https://buttondown.com/api/emails/embed-subscribe/jknapp"
+  method="post"
+  class="embeddable-buttondown-form"
+>
+  <label for="bd-email">Enter your email</label>
+  <input type="email" name="email" id="bd-email" />
+  <input type="submit" value="Subscribe" />
+  <p>
+    <a href="https://buttondown.com/refer/jknapp" target="_blank">
+      Powered by Buttondown.
+    </a>
+  </p>
+</form>

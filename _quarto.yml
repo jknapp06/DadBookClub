@@ -2,12 +2,18 @@ project:
   type: website
 
 website:
-  title: "Dad Bookclub"
+  title: "Dad Book Club"
   navbar:
     right:
       - about.qmd
       - icon: github
         href: https://github.com/
+  page-footer:
+    center:
+      - text: "Subscribe to Dad Book Club"
+        href: "https://buttondown.com/jknapp"  # Replace with your Buttondown URL
+  feed:
+    path: feed.xml
 
 format:
   html:
