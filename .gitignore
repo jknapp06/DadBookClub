@@ -1,0 +1,27 @@
+# Quarto / build artifacts
+_site/
+_freeze/
+
+# RStudio / R
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Quarto runtime
+.quarto/
+
+# Jupyter/Notebook checkpoints
+**/*.quarto_ipynb
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment / secrets
+.Renviron
+.Renviron.local
+.env
+
+/.quarto/
