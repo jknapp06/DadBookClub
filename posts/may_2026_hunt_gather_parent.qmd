@@ -17,7 +17,7 @@ I believe in this vision of familial peace. Alas, our home has yet to arrive. As
 
 ## *Hunt, Gather, Parent*
 
-![Image of the book: Hunt, Gather, Parent 2021 Michaeleen Doucleff](images/hunt_gather_parent.png){width=200px}
+![Image of the book: Hunt, Gather, Parent 2021 Michaeleen Doucleff](../images/hunt_gather_parent.png){width=200px}
 
 The book is different from many parenting books in several refreshing ways. The author, a science reporter for NPR, is not a parenting expert and generously models learning the books' many lessons. She includes the knowledge and wisdom from many experts including real life parents who have managed to avoid the modern, western, style of parenting. Doucleff describes her time living with these parents with her own daughter, and shares their strategies around parenting.
 
